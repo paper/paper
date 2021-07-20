@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 📫 Blog：https://github.com/paper/blog
-- 🔭 当前主要在更新的是：[https://github.com/paper/web.dev-learn-css](https://github.com/paper/web.dev-learn-css)
+- 🔭 当前主要在更新的是：
+  - [https://github.com/paper/web.dev-learn-css](https://github.com/paper/web.dev-learn-css)
+  - [https://github.com/paper/mine-sweeping](https://github.com/paper/mine-sweeping)
 
 <img src="https://github-readme-stats.vercel.app/api?username=paper&show_icons=true&theme=nightowl2&count_private=true&include_all_commits=true&show_owner=true">
 
