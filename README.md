@@ -2,6 +2,8 @@
 
 - 📫 Blog：https://github.com/paper/blog
 - 🔭 当前主要在更新的是：
+  - [https://github.com/paper/RAF-mock-timeout](https://github.com/paper/RAF-mock-timeout) 
+- 🐢 delay
   - [https://github.com/paper/fire](https://github.com/paper/fire)
   - [https://github.com/paper/web.dev-learn-css](https://github.com/paper/web.dev-learn-css)
   - [https://github.com/paper/mine-sweeping](https://github.com/paper/mine-sweeping)
